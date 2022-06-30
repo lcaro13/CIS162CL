@@ -1,0 +1,11 @@
+body {  color: DarkSalmon; }
+
+header {  }
+
+h1 {  color: blue; font-size: 18px; font-style: italic; font-family: "Times New Roman", Times, serif;}
+
+section {  color: LemonChiffon; font-size: 16 px; }
+
+nav > ul {  color: BlueViolet; }
+
+footer {  color: Turquoise; font-size: 10px;}
