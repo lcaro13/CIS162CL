@@ -2,7 +2,7 @@ body {  color: DarkSalmon; }
 
 header { color: darkviolet }
  
-h1 {  color: blue; font-size: 24px; font-style: italic; font-family: "Times New Roman", Times, serif;}
+h1 {  color: blue; font-size: 24px; font-style: italic; font-family: "Times New Roman", Times, serif; text-align: center;}
 
 section {  color: LemonChiffon; font-size: 12px; border-style: solid; }
 
