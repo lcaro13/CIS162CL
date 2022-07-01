@@ -1,11 +1,17 @@
 body {  color: DarkSalmon; }
 
-header {  }
+header { color: darkviolet }
+ 
+h1 {  color: blue; font-size: 18px; font-style: italic; font-family: "Times New Roman", Times, serif;}
 
-h1 {  color: blue; font-size: 20px; font-style: italic; font-family: "Times New Roman", Times, serif;}
+section {  color: LemonChiffon; font-size: 12px; border-style: solid; }
 
-section {  color: LemonChiffon; font-size: 16 px; }
+nav > ul {  color: BlueViolet;   
+    border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;}
 
-nav > ul {  color: BlueViolet; }
-
-footer {  color: Turquoise; font-size: 12px;}
+footer {  color: Turquoise; font-size: 10px;}
