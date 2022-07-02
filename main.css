@@ -12,7 +12,7 @@ header { color: darkviolet;
  
 h1 {  color: blue; font-size: 28px; font-style: italic; font-family: "Times New Roman", Times, serif; }
 
-section {  color: LemonChiffon; font-size: 14px; border-style: solid; }
+section {  color: LemonChiffon; font-size: 28px; border-style: solid; }
 
 nav > ul {  color: BlueViolet;   
     border: 1px solid black;
