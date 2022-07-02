@@ -1,6 +1,10 @@
 body {  color: DarkSalmon; }
 
-header { color: darkviolet }
+header { color: darkviolet; 
+ padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px; }
  
 h1 {  color: blue; font-size: 28px; font-style: italic; font-family: "Times New Roman", Times, serif; }
 
@@ -16,4 +20,8 @@ nav > ul {  color: BlueViolet;
 height: 100px;
   width: 40%;}
 
-footer {  color: Turquoise; font-size: 14px;}
+footer {  color: Turquoise; font-size: 14px; 
+ padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;}
